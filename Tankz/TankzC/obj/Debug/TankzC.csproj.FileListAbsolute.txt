@@ -1,0 +1,157 @@
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\obj\Debug\TankzC.csprojResolveAssemblyReference.cache
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\Assets\bg_cartoon.jpg
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\Assets\loadingBar_bar.png
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\Assets\loadingBar_frame.png
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\Assets\tanks_tankGreen_body1.png
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\Assets\tanks_tankTracks1.png
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\Assets\tanks_turret2.png
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\Assets\tank_bullet1.png
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\Assets\tank_bullet3.png
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\TankzC.exe.config
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\TankzC.exe
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\TankzC.pdb
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\aiv-fast2d.dll
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\OpenTK.dll
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\OpenTK.xml
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\obj\Debug\TankzC.exe
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\obj\Debug\TankzC.pdb
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\bg_cartoon.jpg
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\tanks_tankGreen_body1.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\tanks_tankTracks1.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\tanks_turret2.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\tank_bullet1.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\tank_bullet3.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\TankzC.exe.config
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\TankzC.exe
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\TankzC.pdb
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\aiv-fast2d.dll
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\OpenTK.dll
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\OpenTK.xml
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\obj\Debug\TankzC.csprojResolveAssemblyReference.cache
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\obj\Debug\TankzC.exe
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\obj\Debug\TankzC.pdb
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\crate.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\obj\Debug\TankzC.csproj.CoreCompileInputs.cache
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\obj\Debug\TankzC.csproj.CopyComplete
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\cyberpunk-street1.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\cyberpunk-street2.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\cyberpunk-street3.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\textSheet.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\comics.png
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\bin\Debug\Assets\bg_cartoon.jpg
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\bin\Debug\Assets\comics.png
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\bin\Debug\Assets\crate.png
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\bin\Debug\Assets\cyberpunk-street1.png
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\bin\Debug\Assets\cyberpunk-street2.png
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\bin\Debug\Assets\cyberpunk-street3.png
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\bin\Debug\Assets\loadingBar_bar.png
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\bin\Debug\Assets\loadingBar_frame.png
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\bin\Debug\Assets\tanks_tankGreen_body1.png
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\bin\Debug\Assets\tanks_tankTracks1.png
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\bin\Debug\Assets\tanks_turret2.png
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\bin\Debug\Assets\tank_bullet1.png
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\bin\Debug\Assets\tank_bullet3.png
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\bin\Debug\Assets\textSheet.png
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\bin\Debug\TankzC.exe.config
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\bin\Debug\TankzC.exe
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\bin\Debug\TankzC.pdb
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\bin\Debug\aiv-fast2d.dll
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\bin\Debug\OpenTK.dll
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\bin\Debug\OpenTK.xml
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\obj\Debug\TankzC.csprojResolveAssemblyReference.cache
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\obj\Debug\TankzC.csproj.CoreCompileInputs.cache
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\obj\Debug\TankzC.exe
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\obj\Debug\TankzC.pdb
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\bin\Debug\Assets\bullet_ico.png
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\bin\Debug\Assets\missile_ico.png
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\bin\Debug\Assets\weapons_GUI_frame.png
+D:\progetti\Visual Studio 2017\TankzFont\TankzC\bin\Debug\Assets\weapon_GUI_selection.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\bin\Debug\Assets\bg_cartoon.jpg
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\bin\Debug\Assets\bullet_ico.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\bin\Debug\Assets\comics.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\bin\Debug\Assets\crate.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\bin\Debug\Assets\cyberpunk-street1.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\bin\Debug\Assets\cyberpunk-street2.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\bin\Debug\Assets\cyberpunk-street3.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\bin\Debug\Assets\missile_ico.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\bin\Debug\Assets\tanks_tankGreen_body1.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\bin\Debug\Assets\tanks_tankTracks1.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\bin\Debug\Assets\tanks_turret2.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\bin\Debug\Assets\tank_bullet1.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\bin\Debug\Assets\tank_bullet3.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\bin\Debug\Assets\textSheet.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\bin\Debug\Assets\weapons_GUI_frame.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\bin\Debug\Assets\weapon_GUI_selection.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\bin\Debug\TankzC.exe.config
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\bin\Debug\TankzC.exe
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\bin\Debug\TankzC.pdb
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\bin\Debug\aiv-fast2d.dll
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\bin\Debug\OpenTK.dll
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\bin\Debug\OpenTK.xml
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\obj\Debug\TankzC.csprojResolveAssemblyReference.cache
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\obj\Debug\TankzC.csproj.CoreCompileInputs.cache
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\obj\Debug\TankzC.csproj.CopyComplete
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\obj\Debug\TankzC.exe
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzWeapons\TankzC\obj\Debug\TankzC.pdb
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\bin\Debug\Assets\bg_cartoon.jpg
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\bin\Debug\Assets\bullet_ico.png
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\bin\Debug\Assets\comics.png
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\bin\Debug\Assets\crate.png
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\bin\Debug\Assets\cyberpunk-street1.png
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\bin\Debug\Assets\cyberpunk-street2.png
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\bin\Debug\Assets\cyberpunk-street3.png
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\bin\Debug\Assets\missile_ico.png
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\bin\Debug\Assets\tanks_tankGreen_body1.png
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\bin\Debug\Assets\tanks_tankTracks1.png
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\bin\Debug\Assets\tanks_turret2.png
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\bin\Debug\Assets\tank_bullet1.png
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\bin\Debug\Assets\tank_bullet3.png
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\bin\Debug\Assets\textSheet.png
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\bin\Debug\Assets\weapons_GUI_frame.png
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\bin\Debug\Assets\weapon_GUI_selection.png
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\bin\Debug\TankzC.exe.config
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\bin\Debug\TankzC.exe
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\bin\Debug\TankzC.pdb
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\bin\Debug\aiv-fast2d.dll
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\bin\Debug\OpenTK.dll
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\bin\Debug\OpenTK.xml
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\obj\Debug\TankzC.csproj.CoreCompileInputs.cache
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\obj\Debug\TankzC.exe
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\obj\Debug\TankzC.pdb
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\obj\Debug\TankzC.csprojAssemblyReference.cache
+C:\Users\Runner\source\repos\TankzWeapons\TankzC\obj\Debug\TankzC.csproj.CopyComplete
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\bin\Debug\Assets\bg_cartoon.jpg
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\bin\Debug\Assets\bullet_ico.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\bin\Debug\Assets\comics.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\bin\Debug\Assets\crate.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\bin\Debug\Assets\cyberpunk-street1.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\bin\Debug\Assets\cyberpunk-street2.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\bin\Debug\Assets\cyberpunk-street3.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\bin\Debug\Assets\loadingBar_bar.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\bin\Debug\Assets\loadingBar_frame.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\bin\Debug\Assets\missile_ico.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\bin\Debug\Assets\tanks_tankGreen_body1.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\bin\Debug\Assets\tanks_tankTracks1.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\bin\Debug\Assets\tanks_turret2.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\bin\Debug\Assets\tank_bullet1.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\bin\Debug\Assets\tank_bullet3.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\bin\Debug\Assets\textSheet.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\bin\Debug\Assets\weapons_GUI_frame.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\bin\Debug\Assets\weapon_GUI_selection.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\bin\Debug\TankzC.exe.config
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\bin\Debug\TankzC.exe
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\bin\Debug\TankzC.pdb
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\bin\Debug\aiv-fast2d.dll
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\bin\Debug\OpenTK.dll
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\bin\Debug\OpenTK.xml
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\obj\Debug\TankzC.csprojAssemblyReference.cache
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\obj\Debug\TankzC.csproj.CoreCompileInputs.cache
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\obj\Debug\TankzC.csproj.CopyComplete
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\obj\Debug\TankzC.exe
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\TankzWeapons  21-03-2018\TankzC\obj\Debug\TankzC.pdb

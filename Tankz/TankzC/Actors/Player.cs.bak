@@ -1,0 +1,252 @@
+﻿using Aiv.Fast2D;
+using OpenTK;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TankzC
+{
+    class Player : Tank
+    {
+        protected float shootDelay;
+        protected Bar loadingBar;
+        protected Bar nrgBar;
+        
+        protected int joystickIndex;
+
+        protected Vector2 barOffset;
+
+        protected float currentLoadingVal;
+        protected float maxLoadingVal;
+        protected float loadIncrease;
+
+        protected StateMachine stateMachine;
+
+        protected bool IsSpacePressed;
+
+        public int PlayerId { get; protected set; }
+        public bool IsLoading { get; protected set; }
+        public Bullet LastShotBullet { get; protected set; }
+
+        public Player(string fileName, Vector2 spritePosition, int playerIndex=0) : base(spritePosition, fileName)
+        {
+            //sprite.scale = new Vector2(0.3f, 0.3f);
+
+            PlayerId = playerIndex;
+            joystickIndex = playerIndex;
+            
+            horizontalSpeed = 300;
+            shootDelay = 0.45f;
+
+            loadingBar = new Bar(new Vector2(20, 20), "playerBar", MaxNrg);
+            loadingBar.BarOffset = new Vector2(4, 4);
+            loadingBar.IsActive = false;
+
+            nrgBar = new Bar(new Vector2(30 + 250 * PlayerId, 40), "playerBar");
+            nrgBar.BarOffset = new Vector2(4, 4);
+            nrgBar.SetCamera(CameraManager.GetCamera("GUI"));
+
+            Nrg = 100;
+
+            barOffset = new Vector2(-loadingBar.Width / 2, -150);
+
+            maxLoadingVal = 100;
+            loadIncrease = 80;
+            
+            currentBulletType = BulletManager.BulletType.StdBullet;
+
+            joystickIndex = 0;
+
+            stateMachine = new StateMachine(this);
+            stateMachine.RegisterState((int)States.Play, new PlayState());
+            stateMachine.RegisterState((int)States.Shoot, new ShootState());
+            stateMachine.RegisterState((int)States.Wait, new WaitState());
+
+        }
+
+        public virtual void Play()
+        {
+            stateMachine.Switch((int)States.Play);
+            shootCounter = 0;
+        }
+
+        public virtual void Wait()
+        {
+            stateMachine.Switch((int)States.Wait);
+        }
+
+        protected override void SetNrg(float newValue)
+        {
+            base.SetNrg(newValue);
+            nrgBar.SetValue(nrg);
+        }
+
+        public override Bullet Shoot(BulletManager.BulletType type, float speedPercentage = 1)
+        {
+            LastShotBullet = base.Shoot(type, speedPercentage);
+            shootCounter = shootDelay;
+            ((PlayScene)Game.CurrentScene).StopTimer();
+            stateMachine.Switch((int)States.Shoot);
+
+            return LastShotBullet;
+        }
+
+        public override bool AddDamage(float damage)
+        {
+            bool isDead= base.AddDamage(damage);
+            if (isDead)
+            {
+                loadingBar.SetValue(0);
+            }
+            return isDead;
+        }
+
+        public override void OnDie()
+        {
+            base.OnDie();
+            nrgBar.IsActive = false;
+            ((PlayScene)Game.CurrentScene).OnPlayerDies(this);
+            
+        }
+
+        protected void StartLoading()
+        {
+            loadingBar.IsActive = true;
+            IsLoading = true;
+            currentLoadingVal = 0;
+            loadingBar.Position = Position + barOffset;
+        }
+
+        public void StopLoading()
+        {
+            loadingBar.IsActive = false;
+            IsLoading = false;
+            IsSpacePressed = false;
+        }
+
+        public virtual void UpdateFSM()
+        {
+            stateMachine.Run();
+        }
+
+        public override void Update()
+        {
+            base.Update();
+
+            if (IsLoading)
+            {
+                currentLoadingVal += Game.window.deltaTime * loadIncrease;
+
+                if (currentLoadingVal > maxLoadingVal)
+                {
+                    currentLoadingVal = maxLoadingVal;
+                    loadIncrease = -loadIncrease;
+                }
+                else if (currentLoadingVal < 0)
+                {
+                    currentLoadingVal = 0;
+                    loadIncrease = -loadIncrease;
+                }
+
+                loadingBar.SetValue(currentLoadingVal);
+            }
+        }
+
+        public void Input()
+        {
+            shootCounter -= Game.DeltaTime;
+
+            if (Game.NumJoysticks > 0)
+            {
+                Vector2 axis = Game.window.JoystickAxisLeft(joystickIndex);
+
+                RigidBody.Velocity = axis * horizontalSpeed;
+
+                if(shootCounter<=0 && Game.window.JoystickA(joystickIndex))
+                {
+                    Shoot(currentBulletType);
+                }
+            }
+            else
+            {
+
+                if (!IsLoading && Game.window.GetKey(KeyCode.Right))
+                {
+                    RigidBody.SetXVelocity(horizontalSpeed);
+                }
+                else if (!IsLoading && Game.window.GetKey(KeyCode.Left))
+                {
+                    RigidBody.SetXVelocity(-horizontalSpeed);
+                }
+                else
+                {
+                    RigidBody.SetXVelocity(0);
+                }
+
+                if (Game.window.GetKey(KeyCode.Up))
+                {
+                    turret.Rotation -= Game.DeltaTime;
+                    if (turret.Rotation < maxAngle)
+                    {
+                        turret.Rotation = maxAngle;
+                    }
+                }
+                else if (Game.window.GetKey(KeyCode.Down))
+                {
+                    turret.Rotation += Game.DeltaTime;
+                    if (turret.Rotation > minAngle)
+                    {
+                        turret.Rotation = minAngle;
+                    }
+                }
+
+                if (Game.window.GetKey(KeyCode.R))
+                {
+                    Position = new Vector2(800, 100);
+                }
+
+				if (Game.window.GetKey(KeyCode.Tab))
+                {
+                    if (!IsTabPressed)
+                    {
+                        IsTabPressed = true;
+                        if (Game.window.GetKey(KeyCode.ShiftLeft) || Game.window.GetKey(KeyCode.ShiftRight))
+                        {
+                            currentBulletType = Weapons.NextWeapon(-1);
+                        }
+                        else
+                        {
+                            currentBulletType = Weapons.NextWeapon(1);
+                        }
+                    }
+                }
+                else if (IsTabPressed)
+                {
+                    IsTabPressed = false;
+                }
+                if (shootCounter <= 0)
+                {
+                    if (Game.window.GetKey(KeyCode.Space))
+                    {
+                        if (!IsSpacePressed)
+                        {
+                            StartLoading();
+                            IsSpacePressed = true;
+                        }
+                        
+                    }
+                    else if (IsSpacePressed && IsLoading)
+                    {
+                        StopLoading();
+                        Shoot(currentBulletType,currentLoadingVal/maxLoadingVal);
+						Weapons.DecrementBullets();
+                        IsSpacePressed = false;
+                    }
+                }
+            }
+        }
+
+    }
+}
